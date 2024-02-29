@@ -1,0 +1,51 @@
+#all {
+    .box {
+        width: 450px;
+        height: 200px;
+        border: 1px solid black;
+        padding: 20px;
+        margin: 50px;
+        background-color: black;
+        justify-content: space-around;
+        align-items: center;
+        align-self: center;
+    }
+
+    .time {
+        display: flex;
+        width: 100%;
+    }
+
+    .daySelect {
+        display: flex;
+        justify-content: center;
+    }
+
+
+    #Sun {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Mon {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Tue {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Wed {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Thr {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Fri {
+        accent-color: rgb(194, 15, 75);
+    }
+
+    #Sat {
+        accent-color: rgb(194, 15, 75);
+    }
